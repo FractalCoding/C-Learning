@@ -1,0 +1,43 @@
+Store #1:
+Ingredient0 2.081081
+Ingredient2 2.081081
+Ingredient5 7.000000
+Ingredient6 4.756757
+Ingredient8 2.081081
+
+Store #2:
+Ingredient1 2.133333
+Ingredient2 0.800000
+Ingredient3 2.666667
+Ingredient5 0.533333
+Ingredient7 1.866667
+
+Store #3:
+Ingredient0 0.189189
+Ingredient1 3.200000
+Ingredient2 0.189189
+Ingredient5 10.800000
+Ingredient6 0.432432
+Ingredient8 0.189189
+
+Store #4:
+Ingredient0 1.513514
+Ingredient1 4.755556
+Ingredient2 1.735736
+Ingredient3 1.103448
+Ingredient4 3.103448
+Ingredient5 10.800000
+Ingredient6 4.424977
+Ingredient7 3.049808
+Ingredient8 1.513514
+
+Store #5:
+Ingredient0 1.852941
+Ingredient1 5.247495
+Ingredient2 2.623312
+Ingredient3 3.186275
+Ingredient4 4.392157
+Ingredient5 10.266667
+Ingredient7 4.637037
+Ingredient8 0.794118
+
